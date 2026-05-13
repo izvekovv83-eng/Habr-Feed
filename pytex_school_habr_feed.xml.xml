@@ -1,0 +1,119 @@
+<yml_catalog date="2026-04-30 12:00"> 
+<shop>
+    <name>Товарный фид</name> <!--Название файла-->
+    <company>Pytex</company>
+    <url>https://pytex.school/</url>
+    <currencies> 
+        <currency id="RUB" rate="1"/>
+        <currency id="USD" rate="1"/>
+        <currency id="EUR" rate="1"/>
+        </currencies>
+        <offers>
+            <offer id="1" available="true"> 
+                <name>Backend разработка на Python. Тариф Только курс</name>
+                <url>https://pytex.school/courses/backend?utm_source=habr&utm_medium=banner&utm_campaign=regular&utm_content=habr_courses</url>
+                <price>51992</price>
+                <oldprice>64990</oldprice>
+                <currencyId>RUB</currencyId>
+                <specialization>Программирование и IT</specialization>
+                <param name="Дата начала">В любой момент</param>
+                <duration unit="week|month|year">9 month</duration>
+                <skills>
+                    <skill id="1">Backend-разработка</skill> <!--Нужно отдать title навыка-->
+                    <skill id="2">FastAPI</skill>
+                    <skill id="3">Python</skill>
+                    <skill id="4">CI / CD</skill>
+                    <skill id="5">Базы данных</skill>
+                    <skill id="6">Redis</skill>
+                    <skill id="7">Celery</skill>
+                </skills>
+                <description>Всё, что пригодится на работе Backend разработчику — в одном курсе за 3 месяца. Без воды. На практике.</description>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">24</param>
+                <param name="Ежемесячный платеж">2900</param>
+                <param name="Формат занятий">online</param>
+                <target>Развить навыки в backend разработке</target>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Помощь с трудоустройством">Нет</param>
+            </offer>
+            <offer id="2" available="true"> 
+                <name>Backend разработка на Python. Тариф Курс + Проект</name>
+                <url>https://pytex.school/courses/backend?utm_source=habr&utm_medium=banner&utm_campaign=regular&utm_content=habr_courses</url>
+                <price>63992</price>
+                 <oldprice>79990</oldprice>
+                <currencyId>RUB</currencyId>
+                <specialization>Программирование и IT</specialization>
+                <param name="Дата начала">В любой момент</param>
+                <duration unit="week|month|year">12 month</duration>
+                <skills>
+                    <skill id="1">Backend-разработка</skill> <!--Нужно отдать title навыка-->
+                    <skill id="2">FastAPI</skill>
+                    <skill id="3">Python</skill>
+                    <skill id="4">CI / CD</skill>
+                    <skill id="5">Базы данных</skill>
+                    <skill id="6">Redis</skill>
+                    <skill id="7">Celery</skill>
+                </skills>
+                <description>Всё, что пригодится на работе Backend разработчику — в одном курсе за 3 месяца. Без воды. На практике.</description>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">24</param>
+                <param name="Ежемесячный платеж">3700</param>
+                <param name="Формат занятий">online</param>
+                <target>Развить навыки в backend разработке</target>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Помощь с трудоустройством">Нет</param>
+            </offer>
+            <offer id="3" available="true"> 
+                <name>Backend разработка на Python. Тариф Курс + Проект с автором</name>
+                <url>https://pytex.school/courses/backend?utm_source=habr&utm_medium=banner&utm_campaign=regular&utm_content=habr_courses</url>
+                <price>103992</price>
+                 <oldprice>129990</oldprice>
+                <currencyId>RUB</currencyId>
+                <specialization>Программирование и IT</specialization>
+                <param name="Дата начала">В любой момент</param>
+                <duration unit="week|month|year">12 month</duration>
+                <skills>
+                    <skill id="1">Backend-разработка</skill> <!--Нужно отдать title навыка-->
+                    <skill id="2">FastAPI</skill>
+                    <skill id="3">Python</skill>
+                    <skill id="4">CI / CD</skill>
+                    <skill id="5">Базы данных</skill>
+                    <skill id="6">Redis</skill>
+                    <skill id="7">Celery</skill>
+                </skills>
+                <description>Всё, что пригодится на работе Backend разработчику — в одном курсе за 3 месяца. Без воды. На практике.</description>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">24</param>
+                <param name="Ежемесячный платеж">5900</param>
+                <param name="Формат занятий">online</param>
+                <target>Развить навыки в backend разработке</target>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Помощь с трудоустройством">Нет</param>
+            </offer>
+            <offer id="4" available="true"> 
+                <name>Продвинутое ООП в Python. От простого к сложному</name>
+                <url>https://pytex.school/courses/oop?utm_source=habr&utm_medium=banner&utm_campaign=regular&utm_content=habr_courses</url>
+                <price>9600</price>
+                 <oldprice>12000</oldprice>
+                <currencyId>RUB</currencyId>
+                <specialization>Программирование и IT</specialization>
+                <param name="Дата начала">В любой момент</param>
+                <duration unit="week|month|year">1 year</duration>
+                <skills>
+                    <skill id="1">ООП</skill> 
+                    <skill id="2">Python</skill>
+                    <skill id="3">SOLID</skill>
+                    <skill id="4">CRUD</skill>
+                </skills>
+                <description>Научишься писать производительный код на Python c помощью абстрактных классов, интерфейсов, SOLID, наследования, dataclass, итераторов, генераторов, Protocol и контекстных менеджеров</description>
+                <param name="Оплата в рассрочку">Да</param>
+                <param name="Период рассрочки">24</param>
+                <param name="Ежемесячный платеж">550</param>
+                <param name="Формат занятий">online</param>
+                <target>Развить навыки по ООП</target>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Помощь с трудоустройством">Нет</param>
+            </offer>
+        </offers>
+</shop>
+</yml_catalog>
